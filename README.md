@@ -1,2 +1,2 @@
 # blog-comments
-##Ben Blog: https://smallbenxiong.github.io/
+## Ben Blog: https://smallbenxiong.github.io/
